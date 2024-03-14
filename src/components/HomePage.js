@@ -41,11 +41,11 @@ const HomePage = () => {
 				</thead>
 				<tbody>
 					<tr>
-						<td style={styles.td}>A B</td>
+						<td style={styles.td}>Abdul</td>
 						<td style={styles.td}>Developer</td>
 					</tr>
 					<tr>
-						<td style={styles.td}>C D</td>
+						<td style={styles.td}>Azmath</td>
 						<td style={styles.td}>Designer</td>
 					</tr>
 				</tbody>
